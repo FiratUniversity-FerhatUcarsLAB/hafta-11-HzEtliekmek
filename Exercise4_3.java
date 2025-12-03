@@ -21,4 +21,15 @@ public class Exercise4_3 {
     public static void ping() {
         System.out.println(".");
     }
+
+    /*
+     * CEVAPLAR:
+     * 1. Stack Diyagramı (Sözel):
+     * - main -> zoop -> baffle -> ping
+     *
+     * 2. TAM ÇIKTI:
+     * No, I wug.
+     * You wugga wug.
+     * I wug.
+     */
 }
